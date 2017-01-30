@@ -1,0 +1,2 @@
+# pythagoreanTriplets
+generating Pythagorean Triplets
